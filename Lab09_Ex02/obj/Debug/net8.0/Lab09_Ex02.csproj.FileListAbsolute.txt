@@ -1,0 +1,15 @@
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\obj\Debug\net8.0\Lab09_Ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\obj\Debug\net8.0\Lab09_Ex02.AssemblyInfoInputs.cache
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\obj\Debug\net8.0\Lab09_Ex02.AssemblyInfo.cs
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\obj\Debug\net8.0\Lab09_Ex02.csproj.CoreCompileInputs.cache
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\obj\Debug\net8.0\Lab09_Ex02.sourcelink.json
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\bin\Debug\net8.0\Lab09_Ex02.exe
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\bin\Debug\net8.0\Lab09_Ex02.deps.json
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\bin\Debug\net8.0\Lab09_Ex02.runtimeconfig.json
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\bin\Debug\net8.0\Lab09_Ex02.dll
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\bin\Debug\net8.0\Lab09_Ex02.pdb
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\obj\Debug\net8.0\Lab09_Ex02.dll
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\obj\Debug\net8.0\refint\Lab09_Ex02.dll
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\obj\Debug\net8.0\Lab09_Ex02.pdb
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\obj\Debug\net8.0\Lab09_Ex02.genruntimeconfig.cache
+D:\lab09_oop\Lab09-CSharp-Class-Part-II\Lab09_Ex02\obj\Debug\net8.0\ref\Lab09_Ex02.dll
