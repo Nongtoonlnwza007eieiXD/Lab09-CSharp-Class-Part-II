@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Person.name = "sronsawan";  
-Console.WriteLine(Person.GetName());  
+System.Console.WriteLine(Person.GetName());  
 
 static class Person
 {
